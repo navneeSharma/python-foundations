@@ -1,4 +1,4 @@
-# Python Foundations — 100 Practice Problems
+# Python Foundations : 100 Practice Problems
 
 This repository is a structured refresh of my core Python programming fundamentals through approximately 100 practice problems.
 
